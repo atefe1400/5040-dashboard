@@ -1,4 +1,4 @@
-# 5040 Dashboard
+# 5040  HR Dashboard
 
 A collection of management and analytical dashboards developed for demonstration and portfolio purposes.
 
